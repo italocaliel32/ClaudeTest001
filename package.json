@@ -1,0 +1,11 @@
+{
+  "name": "gestao-limpeza-web-summit",
+  "version": "1.0.0",
+  "description": "Sistema de gestão de limpeza para o Web Summit Lisboa",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
